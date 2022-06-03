@@ -3,7 +3,7 @@
 This is a project that allows someone to consult their medications, add
 their medications to a list, and see these medications sideffects.
 
-##Technologies
+## Technologies
 - **Backend** - C# 10 
 - **ORM** - EF 6
 - **Database** - SQL
@@ -13,7 +13,7 @@ their medications to a list, and see these medications sideffects.
 - MVC (Model, View, Controller)
 - Code First Database Creation
 
-##Getting Started
+## Getting Started
 1. Clone git@github.com:Baho717/Safe-Prescript.git
 2. Navagate to the source folder
 3. Run 'dotnet run'
