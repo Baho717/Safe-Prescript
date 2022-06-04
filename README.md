@@ -36,4 +36,4 @@ their medications to a list, and see these medications sideffects.
 - [ ] Scaffold DB and Controllers/ View Based on Models
 - [ ] Customize the solution to show off my skills
 
-*[Benjamin Aho](Benjamin.aho27@gmail.com.com) Maintains this repository
+* <a href="mailto:Benjamin.aho27@gmail.com" title="FreelanceFreedom">Benjamin Aho</a> Maintains this repository
